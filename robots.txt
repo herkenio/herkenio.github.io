@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://herkenio.github.io/sitemap
+Sitemap: https://herkenio.github.io/app/sitemap
+Sitemap: https://herkenio.github.io/assets/sitemap
+Sitemap: https://herkenio.github.io/css/sitemap
+Sitemap: https://herkenio.github.io/includes/sitemap
+Sitemap: https://herkenio.github.io/item/sitemap
+Sitemap: https://herkenio.github.io/src/sitemap
